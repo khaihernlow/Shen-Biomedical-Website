@@ -7,9 +7,12 @@ import Research from "@components/Research";
 import Recruitment from "@components/Recruitment";
 import Calendar from "@components/Calendar";
 
-export const metadata = () => {
-  title: "Shen Biomedical Club";
-  description: "Shen Biomedical Club is a student-run organization at Shenendehowa HS that aims to foster a community of students interested in the intersection of medicine and technology through research. See our meetings, published research, and projects.";
+export const metadata = {
+  title: "Shen Biomedical Club",
+  description: "Shen Biomedical Club is a student-run organization at Shenendehowa HS that aims to foster a community of students interested in the intersection of medicine and technology through research. See our meetings, published research, and projects.",
+  icons: {
+    icon: '/assets/favicon-light.png',
+  }
 };
 
 
