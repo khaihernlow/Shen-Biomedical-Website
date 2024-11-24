@@ -19,6 +19,7 @@ export const metadata = {
 const images = [
   { id: 1, src: "/assets/images/banner.jpg", alt: "Image 1" },
   { id: 2, src: "/assets/images/banner2.jpg", alt: "Image 2" },
+  { id: 3, src: "/assets/images/banner3.jpg", alt: "Club Poster" },
 ];
 
 const layout = ({ children }) => {
