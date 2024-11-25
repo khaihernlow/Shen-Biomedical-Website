@@ -39,6 +39,14 @@ const allProjects = [
     title: "BOCES New Vision with Speaker Thomas Slavic",
     link: "https://docs.google.com/document/d/10_iX6jMc-JAKxMtpDN_IRqeHrJVfKn3ql4ny-NbYETk/edit",
   },
+  {
+    id: 4,
+    imgLink: "https://images.unsplash.com/photo-1648224395352-812a6ce3431c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    imgAlt: "Nationwide IV Fluid Shortage Presentation",
+    tag: "Awareness Presentation",
+    title: "Natalie Johnson: Nationwide IV Fluid Shortage Presentation",
+    link: "https://docs.google.com/presentation/d/1C6UtV13TAwcpt1lEo79u0E-75KXDpAGUuCYWHIKB4hQ/edit?usp=sharing",
+  },
 ];
 
 const Research = () => {
